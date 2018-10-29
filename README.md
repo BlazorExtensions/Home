@@ -14,4 +14,4 @@ Please file an issue here if you:
 1. Want to request/suggest a new extension to be implemented on Blazor Extensions.
 2. Want to bring in your own component
 
-Please **don't** file an issue here if you have a question/problem with one of the exetnsions hosted in this organization. For that, please open an issue on the extension's repository and the maintainers will be glad to engage with you on that.
+Please **don't** file an issue here if you have a question/problem with one of the extensions hosted in this organization. For that, please open an issue on the extension's repository and the maintainers will be glad to engage with you on that.
